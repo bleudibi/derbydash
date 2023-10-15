@@ -1,0 +1,38 @@
+html, body {
+    margin: 0;
+    padding: 0;
+  }
+  .canvas-body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 205px;
+  }
+  
+
+.startbutton {
+    justify-content: center;
+    align-items: center;
+    display:flex;
+     margin-top: 700px;
+    margin-left: 200px;
+}
+
+.returnbutton{
+    justify-content: center;
+    align-items: center;
+    display:flex;
+    margin-top: 650px;
+    margin-right:300px;
+}
+
+.rollerskate{
+    justify-content: center;
+    align-items: center;
+    display:flex;
+    margin:0;
+    padding:0;
+    margin-top: 25px;
+    margin-left:100px;
+}
